@@ -10,4 +10,4 @@
 
 | write-up | 备注 | 包含题目 |
 | - | - | - |
-| [iyume](writeups/iyume/main.pdf) | 总排名第 5 名（暂定） | Signin2,easy简单的越权,Web3,pop,txt,流量包,Search evidence,Encode,简单的密码 |
+| [iyume](writeups/iyume/index.md) | 总排名第 5 名（暂定） | Signin2,easy简单的越权,Web3,pop,txt,流量包,Search evidence,Encode,简单的密码 |
